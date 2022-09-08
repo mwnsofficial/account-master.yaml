@@ -1,14 +1,14 @@
 proxies:
-- name: INDONESIA3
-  server: blog.midtrans.com
+- name: AUTO1
+  server: bugmu.com
   port: 443
   type: trojan
   password: 66b01e66-e219-4ec4-bb8d-ad2423a603c4
-  sni: 7di7.vpsxc.my.id
+  sni: id1.masterwifi.tech
   skip-cert-verify: true
   udp: true
   network: ws
   ws-opts:
-    path: /trojanws
+    path: /masterwifi
     headers:
-      Host: 7di7.vpsxc.my.id
+      Host: id1.masterwifi.tech
