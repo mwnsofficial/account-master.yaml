@@ -1,5 +1,5 @@
 proxies:
-- name: INDONESIA2
+- name: INDONESIA3
   server: blog.midtrans.com
   port: 443
   type: trojan
